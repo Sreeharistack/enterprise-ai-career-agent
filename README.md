@@ -342,3 +342,36 @@ Resume PDF + Job Description PDF
                 │
                 ▼
       Portfolio Recommendations
+
+
+## 📸 Application Screenshots
+
+### 1. Dashboard & Document Upload
+
+Upload your resume and target job description in PDF format.
+
+![Dashboard](docs/dashboard.png)
+
+---
+
+### 2. Career Compatibility & Skill Gap Analysis
+
+The system compares the resume with the target job description and identifies matched skills, partial matches, and skill gaps.
+
+![Career Analysis](docs/career-analysis.png)
+
+---
+
+### 3. Personalized Learning Roadmap & Projects
+
+The system generates a structured learning roadmap and recommends portfolio projects based on identified skill gaps.
+
+![Learning Roadmap](docs/roadmap.png)
+
+---
+
+### 4. ATS Resume Intelligence
+
+The ATS analyzer evaluates keyword matching, resume structure, missing keywords, and improvement opportunities.
+
+![ATS Analysis](docs/ats-analysis.png)
