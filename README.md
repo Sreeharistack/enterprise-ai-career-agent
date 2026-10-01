@@ -343,40 +343,61 @@ Resume PDF + Job Description PDF
                 ▼
       Portfolio Recommendations
 
-```markdown
----
+
 
 ## 📸 Application Screenshots
 
-### 1. Dashboard & Document Upload
-
-Upload your resume and target job description in PDF format.
+### 1. Dashboard
+Initial dashboard of the AI Career Intelligence & Job-Matching Agent.
 
 ![Dashboard](docs/dashboard.png)
 
----
+### 2. Resume & Job Description Upload
+Upload the resume and target job description as PDF files.
 
-### 2. Career Compatibility & Skill Gap Analysis
+![Dashboard Upload](docs/dashboard-upload.png)
 
-The system compares the resume with the target job description and identifies matched skills, partial matches, and skill gaps.
+### 3. Resume Upload Success
+Confirmation after successfully uploading and extracting the resume.
+
+![Resume Upload Success](docs/resume-upload-success.png)
+
+### 4. Career Analysis
+Overall career compatibility analysis between the resume and target job.
 
 ![Career Analysis](docs/career-analysis.png)
 
----
+### 5. Skill Gap Analysis
+Identifies matched, partial, and missing skills based on the target job.
 
-### 3. Personalized Learning Roadmap & Projects
+![Skill Gap Analysis](docs/skill-gap-analysis.png)
 
-The system generates a structured learning roadmap and recommends portfolio projects based on identified skill gaps.
+### 6. Personalized Learning Roadmap
+Provides a structured 30-day, 60-day, and 90-day learning roadmap.
 
 ![Learning Roadmap](docs/roadmap.png)
 
----
+### 7. Recommended Portfolio Projects
+Recommends practical projects based on identified skill gaps.
 
-### 4. ATS Resume Intelligence
+![Recommended Projects](docs/recommended-projects.png)
 
-The ATS analyzer evaluates keyword matching, resume structure, missing keywords, and improvement opportunities.
+### 8. ATS Resume Analysis
+Evaluates ATS keyword matching and resume structure.
 
 ![ATS Analysis](docs/ats-analysis.png)
 
+### 9. ATS Analysis Details
+Detailed ATS keywords, sections, and improvement suggestions.
 
+![ATS Analysis Details](docs/ats-analysis-details.png)
 
+### 10. Interview Preparation
+Generates technical interview questions based on job requirements.
+
+![Interview Preparation](docs/interview-preparation.png)
+
+### 11. Skill Gap Interview Questions
+Generates questions focused specifically on missing skills.
+
+![Skill Gap Questions](docs/skill-gap-questions.png)
