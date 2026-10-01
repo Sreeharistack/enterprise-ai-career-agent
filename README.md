@@ -343,6 +343,8 @@ Resume PDF + Job Description PDF
                 ▼
       Portfolio Recommendations
 
+```markdown
+---
 
 ## 📸 Application Screenshots
 
@@ -375,3 +377,6 @@ The system generates a structured learning roadmap and recommends portfolio proj
 The ATS analyzer evaluates keyword matching, resume structure, missing keywords, and improvement opportunities.
 
 ![ATS Analysis](docs/ats-analysis.png)
+
+
+
